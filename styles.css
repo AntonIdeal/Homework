@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+margin: auto;
+height: 1000 px; 
+width: 80%;
+border: solid rgb(128, 126, 253);
+}
+.items {
+    margin-left: 400px;
+}
+.main {
+margin: auto;
+height: 1000 px; 
+width: 80%;
+}
+.main_item {
+width: 43%;
+border: solid black;
+display: inline-block;
+margin-bottom: 10px;
+
+}
